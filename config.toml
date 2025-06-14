@@ -1,0 +1,26 @@
+base_url = "https://www.chatterieayanna.com"
+title = "Chatterie Ayanna"
+
+compile_sass = true
+build_search_index = true
+theme = "hallo"
+
+[markdown]
+highlight_code = true
+
+[extra]
+greeting = "Miaou!"
+
+iam = "Bienvenue à"
+
+links = [
+    { title = "Facebook", url = "https://facebook.com/chatterieayanna", icon = "facebook" }
+]
+
+[extra.author]
+name = "Chatterie Ayanna"
+
+[extra.theme]
+background = "#6FCDBD"
+foreground = "#FFF"
+hover = "#333"
